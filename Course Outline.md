@@ -88,6 +88,8 @@ Input layer is layer 0. A NN with 3 layers has a two hidden layers and one outpu
 
 # Week 2
 
+
+
 # Week 3 
 
 # Week 4 
